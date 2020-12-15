@@ -1,4 +1,4 @@
-# crud-persona
+# front-vue-pi
 
 ## Project setup
 ```
